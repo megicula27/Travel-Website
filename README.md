@@ -7,3 +7,6 @@
   * Built in Gallery
   * Working Shopping cart
   * Description page
+  
+- Clone this project using VScode
+- Run and use it for your college project.
